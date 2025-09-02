@@ -121,10 +121,5 @@ This framework demonstrates how prompt-driven design helps craft a climate chang
 
 ----
 
-Result: The various types of Prompts are executed successfully with generated the report.
-
-
-
-
 # Result: Thus the Prompts were exected succcessfully.
 
